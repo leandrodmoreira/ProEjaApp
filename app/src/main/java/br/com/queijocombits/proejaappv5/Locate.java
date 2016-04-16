@@ -21,4 +21,6 @@ public class Locate extends AppCompatActivity {
         startActivity(find);
     }
 
+    //teste2.0
+
 }
