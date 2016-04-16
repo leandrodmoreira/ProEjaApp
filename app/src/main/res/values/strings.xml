@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">ProEjaApp</string>
+    <string name="Button">Localize uma Escola</string>
+    <string name="Button1">Sobre o Programa EJA</string>
+    <string name="Button2">Notícias do EJA</string>
+    <string name="Button3">Sobre o Aplicativo</string>
+    <string name="textBEEBJA">CEEBJA CIC</string>
+    <string name="textAboutApp1">Desenvolvido no curso</string>
+    <string name="textAboutApp2">Android Development for Beginners</string>
+    <string name="textAboutApp4">GDG - Curitiba</string>
+    <string name="textAboutApp3">Dev.: Leandro Moreira</string>
+    <string name="imgDescr">Imagem</string>
+
+    <string name="textAbout">
+        Educação de jovens e adultos (EJA) é a modalidade de ensino nas etapas dos ensinos
+        fundamental e médio da rede escolar pública brasileira e adotada por algumas redes
+        particulares que recebe os jovens e adultos que não completaram os anos da educação básica
+        em idade apropriada por qualquer motivo (entre os quais é frequente a menção da necessidade
+        de trabalho e participação na renda familiar desde a infância). No início dos anos 90, o
+        segmento da EJA passou a incluir também as classes de alfabetização inicial.
+        No Brasil, o campo consolidou-se com influência das ideias do educador Paulo Freire e em
+        forte relação com o movimento de educação popular. O professor paranaense Anísio Alves da
+        Silva é considerado o pioneiro nesta modalidade de ensino, pois no início de década de 1960,
+        no antigo miniginásio (atual Liceu Mário de Andrade, em Londrina), implantou um curso rápido
+        e preparatório para o Exame de Madureza e a ideia foi ampliada para o ensino geral de
+        pessoas que tinham desistido do ensino regular.
+        O segmento é regulamentado pelo artigo 37 da Lei de Diretrizes e Bases da educação
+        (a LDB, ou lei nº 9394.[4] de 20 de Dezembro de 1996). É um dos segmentos da educação básica
+        que recebem repasse de verbas do Fundeb.
+        Fonte: (Wikipedia)-  https://goo.gl/w2uQJ7
+    </string>
+
+    <string name="newsEjaTitle1">NOTÍCIA - Abertas as inscrições para o Prêmio Educador Nota 10 </string>
+    <string name="newsEjaBody1">
+       Os professores da rede estadual de ensino, que desenvolvem boas práticas educativas, podem
+        participar do Prêmio Educador Nota 10, criado pela Fundação Victor Civita. O objetivo é
+        valorizar o projeto de sucesso dos docentes dentro das unidades.
+    </string>
+
+    <string name="newsEjaTitle2">NOTÍCIA - CEEJA de Marília transforma vida de jovens e adultos da região</string>
+    <string name="newsEjaBody2">
+       Mostrar ao aluno que a educação pode mudar sua vida é mais do que um lema para a direção do
+        CEEJA Sebastiana Ulian Pessine, localizado região de Marília. Ao todo, o Centro Estadual de
+        Educação de Jovens e Adultos conseguiu aproximadamente 30 alunos ingresso.
+    </string>
+
+    <string name="newsEjaTitle3">NOTÍCIA - Olimpíadas são oportunidades para aprender um novo idioma</string>
+    <string name="newsEjaBody3">
+      Os alunos da rede estadual de São Paulo também estão na contagem regressiva para os Jogos
+        Olímpicos Rio 2016. No lugar das provas de atletismo, natação ou vôlei, o foco deles é o
+        domínio de outros idiomas.
+    </string>
+
+    <string name="newsEjaTitle4">NOTÍCIA - Cresce a procura de adultos por diploma da educação básica </string>
+    <string name="newsEjaBody4">
+     O número de jovens e adultos formados pela rede estadual dobrou. Um levantamento feito pela
+        Educação mostrou que nos últimos dois anos, as 31 unidades dos Centros Estaduais de Educação
+        de Jovens e Adultos (CEEJA), da Educação, formaram juntas 10.601, em 2015.
+    </string>
+
+    <string name="newsEjaTitle5">NOTÍCIA - Gosta de Física? Então inscreva-se na OBFEP</string>
+    <string name="newsEjaBody5">
+      Alunos e professores da rede estadual que gostam de Física já podem se inscrever na Olimpíada
+        Brasileira de Física das Escolas Públicas (OBFEP). Para participar, os educadores devem fazer
+        o credenciamento por meio do site da OBFEP até o dia 27 de maio
+    </string>
+
+    <string name="newsEjaTitle6">NOTÍCIA - Alunos da rede estadual ganham curso online e gratuito de mandarim</string>
+    <string name="newsEjaBody6">
+      O idioma mais falado no mundo ganhará novos falantes. A Educação de São Paulo, em parceria com
+        a Universia, disponibilizará o curso online de mandarim para os alunos da rede estadual.
+        Aberto a estudantes do Ensino Médio e da Educação de Jovens e Adultos (EJA),
+    </string>
+
+    <string name="newsEjaTitle7">NOTÍCIA - Alunos do Ensino Médio podem participar de concurso sobre DNA </string>
+    <string name="newsEjaBody7">
+      Os alunos do Ensino Médio da rede estadual paulista podem participar do 1º Concurso Artístico
+        “DNA e herança biológica”, que será realizado pelo Centro de Pesquisa sobre o Genoma Humano
+        e Células-tronco
+    </string>
+
+    <string name="newsEjaFonte">Fonte: (Secretária de Educação Estado de SP)-  https://goo.gl/w2uQJ7</string>
+
+
+</resources>
